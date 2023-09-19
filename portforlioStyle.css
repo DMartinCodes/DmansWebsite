@@ -1,0 +1,21 @@
+/* Add CSS styles for the portfolio page */
+.portfolio {
+    padding: 50px 0;
+}
+
+.portfolio-item {
+    margin-bottom: 40px;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.portfolio-item h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+/* Add more CSS styles as needed for your portfolio items */
+
