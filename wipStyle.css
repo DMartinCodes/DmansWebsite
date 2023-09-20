@@ -1,0 +1,20 @@
+/* Add CSS styles for the Works in Progress page */
+.wips {
+    padding: 50px 0;
+}
+
+.wip-item {
+    margin-bottom: 40px;
+}
+
+.wip-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wip-item h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+/* Add more CSS styles as needed for your works in progress items */
